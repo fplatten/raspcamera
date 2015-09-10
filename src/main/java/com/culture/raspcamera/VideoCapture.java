@@ -6,6 +6,8 @@ import java.io.IOException;
 
 public class VideoCapture {
 	
+	//to play video: omxplayer testvid.h264
+	
 	
 	public static void main(String[] args) throws IOException
 	  {
